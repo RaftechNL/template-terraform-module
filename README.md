@@ -14,15 +14,6 @@ A brief description of what this project does and who it's for
 
 [Documentation](https://linktodocumentation)
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Usage/Examples
 
@@ -50,7 +41,7 @@ Answer 2
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Awesome README](https://github.com/rafpe)
 
 
 ## Contributing
